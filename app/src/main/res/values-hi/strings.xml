@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अग्निहोत्र</string>
+    <string name="sunr">सूर्योदय</string>
+    <string name="suns">सूर्यास्त</string>
+    <string name="todayeng">"आज है "</string>
+    <string name="locbpl">"भोपाल"</string>
+    <string name="locfarm">"साधना पथ"</string>
+
+</resources>

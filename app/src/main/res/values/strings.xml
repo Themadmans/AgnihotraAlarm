@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">अग्निहोत्र</string>
+    <string name="todayeng">Today is</string>
+    <string name="sunr">Sunrise</string>
+    <string name="suns">Sunset</string>
+    <string name="locbpl">Bhopal</string>
+    <string name="locfarm">The Madman\'s Farm</string>
+</resources>
